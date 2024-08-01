@@ -1,0 +1,3 @@
+priv/segfault_app.so
+_build/
+deps/
